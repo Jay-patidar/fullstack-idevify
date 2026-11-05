@@ -22,3 +22,4 @@ output "api_url" {
   description = "API URL to access Django Backend"
   value       = "http://${aws_instance.app_server.public_ip}:8000/api/hello/"
 }
+

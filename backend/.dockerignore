@@ -26,3 +26,4 @@ docker-compose*.yml
 db.sqlite3
 staticfiles/
 media/
+

@@ -176,3 +176,4 @@ resource "aws_instance" "app_server" {
     Environment = var.environment
   }
 }
+

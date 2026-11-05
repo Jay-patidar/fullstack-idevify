@@ -3,3 +3,4 @@ environment      = "production"
 instance_type    = "t3.micro"
 key_name         = "my-aws-ssh-key"
 allowed_ssh_cidr = "0.0.0.0/0"
+

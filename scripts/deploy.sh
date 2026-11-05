@@ -105,3 +105,4 @@ else
     ${COMPOSE_CMD} logs --tail=50
     exit 1
 fi
+
